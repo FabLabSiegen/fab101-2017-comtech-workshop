@@ -1,0 +1,34 @@
+site_name: 'c&t workshop on digital fabrication and the common good'
+#repo_url: 'https://github.com/florianja/3DPrintingWorkshop/'
+#repo_name: 'GitHub'
+
+pages:
+    - About: 'index.md'
+    - Program: 'program.md'
+    - Organizers: 'organizer.md'
+    - Participate: 'participate.md'
+    - Imprint: 'imprint.md'  
+
+    
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc(permalink=true)
+  - footnotes
+
+theme_dir: 'theme/material'  
+#theme: 'material'
+
+extra:
+  logo: 'images/logo.png'
+  palette:
+    primary: 'teal'
+    accent: 'orange'
+  font:
+    text: 'Open Sans'
+    code: 'Inconsolata'
+#  social:
+#    - type: 'twitter'
+#      link: 'https://twitter.com/cscwsiegen'
+#    - type: 'facebook'
+#      link: 'http://facebook.com/fablabsiegen'
