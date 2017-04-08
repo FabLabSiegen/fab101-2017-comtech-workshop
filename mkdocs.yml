@@ -1,22 +1,22 @@
-site_name: 'c&t workshop on digital fabrication and the common good'
-#repo_url: 'https://github.com/FabLabSiegen/fab101-2017-comtech-workshop'
-#repo_name: 'GitHub'
+site_name: 'digital fabrication and the common good workshop'
+repo_url: 'https://github.com/FabLabSiegen/fab101-2017-comtech-workshop'
+repo_name: 'fablabsiegen:comtech-ws'
 
 pages:
     - About: 'index.md'
     - Program: 'program.md'
-    - Organizers: 'organizer.md'
+    - Organizers: 'organizers.md'
     - Participate: 'participate.md'
-    - Imprint: 'imprint.md'  
+    - Imprint: 'imprint.md'
 
-    
+
 markdown_extensions:
   - admonition
   - codehilite
   - toc(permalink=true)
   - footnotes
 
-theme_dir: 'theme/material'  
+theme_dir: 'theme/material'
 #theme: 'material'
 
 extra:
