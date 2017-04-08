@@ -1,6 +1,7 @@
 site_name: 'digital fabrication and the common good workshop'
 repo_url: 'https://github.com/FabLabSiegen/fab101-2017-comtech-workshop'
 repo_name: 'fablabsiegen:comtech-ws'
+site_favicon: 'images/favicon-32x32.png'
 
 pages:
     - About: 'index.md'
@@ -20,6 +21,10 @@ markdown_extensions:
 theme_dir: 'theme/material'
 #theme: 'material'
 
+extra_css:
+    - css/footer.css
+    
+    
 extra:
   logo: 'images/logo.png'
   palette:
