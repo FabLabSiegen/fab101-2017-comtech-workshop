@@ -38,13 +38,28 @@
   {% endif %}
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
+
+      <div class="footer-logos">
+            <a href="http://www.uni-siegen.de/">
+            <img border="0" alt="Universität Siegen" src="{{ base_url }}/images/usi.png">
+          </a>
+          <a href="http://fablab-siegen.de/">
+            <img border="0" alt="FabLab Siegen" src="{{ base_url }}/images/fablab_logo.png">
+          </a>
+          <a href="http://globalinnovationgathering.com/">
+            <img border="0" alt="Global Innovation Gathering" src="{{ base_url }}/images/gig.png">
+          </a>
+
+        </div>
+
       <div class="md-footer-copyright">
         {% if config.copyright %}
           <div class="md-footer-copyright__highlight">
             {{ config.copyright }}
           </div>
         {% endif %}
-        powered by
+        <a href="{{ base_url }}/imprint/" title="Imprint">
+                  Imprint</a>  |  powered by
         <a href="http://www.mkdocs.org" title="MkDocs">MkDocs</a>
         and
         <a href="http://squidfunk.github.io/mkdocs-material/" title="Material for MkDocs">
@@ -56,18 +71,5 @@
       {% endblock %}
     </div>
 
-	<div class="footer-logos">
-	  		<a href="http://www.uni-siegen.de/">
-				<img border="0" alt="Universität Siegen" src="{{ base_url }}/images/usi.png">
-			</a>
-			<a href="http://fablab-siegen.de/">
-				<img border="0" alt="FabLab Siegen" src="{{ base_url }}/images/fablab_logo.png">
-			</a>
-	  </div>
-
-	<div style="text-align: center; width:100%;">
-	  		<a href="{{ base_url }}/imprint/" title="Imprint">
-          Imprint</a>
-	  </div>
   </div>
 </footer>
