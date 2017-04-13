@@ -13,13 +13,13 @@ Konstantin is probably the most well-travelled operational field-researcher in o
 
 
 ## Sarah Rueller  <img style="float: right; height: 133px; width: 133px;" src="/images/sr.jpg">
-University of Siegen | [Mail](sarah.rueller@uni-siegen.de)
+University of Siegen | [Mail](mailto:sarah.rueller@uni-siegen.de)
 
 Sarah is a long-term student research assistant, coordinates a [come_IN](http://www.come-in.cc/) computer club, has done field research (e.g. West Bank and Morocco) and is co-coordinator for project [YALLAH](http://www.yallah.exchange/). She has published on computer clubs, participation in developmental contexts and ICT use by migrants.
 
 
 ## Verena Fuchsberger  <img style="float: right; height: 133px; width: 133px;" src="https://hci.sbg.ac.at/wp-content/uploads/2015/05/IMG_0421-500x500-1435850596.jpg">
-University of Salzburg | [Website](https://hci.sbg.ac.at/person/fuchsberger/) | [Mail](verena.fuchsberger@sbg.ac.at)
+University of Salzburg | [Website](https://hci.sbg.ac.at/person/fuchsberger/) | [Mail](mailto:verena.fuchsberger@sbg.ac.at)
 
 Verena is a Postdoctoral Research Fellow at the Center for Human-Computer Interaction at the University of Salzburg. She focuses on the agency of human and non-human actors in HCI and interaction design – particularly, she is interested in the materiality of interactions. Verena has published on Interaction Design, the future of work, the ageing society, Materiality in HCI and Interaction Design and more. She also coorganizes scientific and community events centered on fabricationand innovation, whereby she is specifically interested in the intersections of industrial production and hobbyist making.
 
@@ -41,6 +41,6 @@ Volker Wulf holds the Chair of Information Systems and New Media at the Universi
 
 
 ## Manfred Tscheligi <img style="float: right; height: 133px; width: 133px;" src="https://hci.sbg.ac.at/wp-content/uploads/2015/05/DSC7691-bw-500x500.jpg">
-University of Salzburg | [Website](https://hci.sbg.ac.at/person/tscheligi/)| [Mail](manfred.tscheligi@sbg.ac.at)
+University of Salzburg | [Website](https://hci.sbg.ac.at/person/tscheligi/)| [Mail](mailto:manfred.tscheligi@sbg.ac.at)
 
 Manfred is professor for Human-Computer Interaction at the Center for Human-Computer Interaction, University of Salzburg and Head of the Business Unit Technology Experience at the Austrian Institute of Technology GmbH (AIT), Vienna. He has been initiating and managing a broad variety of national and international research and industrial projects. Being a member of various expert, advisory, and conference committees (e.g., CHI conference series, Mobile HCI conference series, Human-Robot Interaction conference series), his work is characterized by interdisciplinary approaches to enrich the interaction between humans and systems.
