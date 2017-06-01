@@ -12,8 +12,10 @@
 This workshop at [C&T 2017 conference](http://comtech.community/) is intended to illustrate and discuss *cases, positions, concepts and experiences* related to such developments in digital fabrication, especially in 3D printing. We specifically look for contributions highlighting the role of digital fabrication and 3D printing *for the common good and in educational contexts*. Interested in [participating](/participate)?
 
 ## Important Dates
-#### June 1, 2017: [submission](/participate) deadline
-#### June 9, 2017: notification of acceptance / program update
+#### June 11, 2017: [submission](/participate) deadline
+The deadline has been extended. Old date: June 1, 2016.
+#### June 16, 2017: notification of acceptance / program update
+Date has been updated. Old Date: June 9, 2016
 #### June 26-30, 2017: Workshops at C&T (26th or 27th)
 
 ## Workshop description as PDF
