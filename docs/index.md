@@ -13,9 +13,9 @@ This workshop at [C&T 2017 conference](http://comtech.community/) is intended to
 
 ## Important Dates
 #### June 11, 2017: [submission](/participate) deadline
-The deadline has been extended. Old date: June 1, 2016.
+The deadline has been extended. Old date: June 1, 2017.
 #### June 16, 2017: notification of acceptance / program update
-Date has been updated. Old date: June 9, 2016
+Date has been updated. Old date: June 9, 2017.
 #### June 26-30, 2017: Workshops at C&T (26th or 27th)
 
 ## Workshop description as PDF
