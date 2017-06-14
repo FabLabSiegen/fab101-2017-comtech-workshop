@@ -54,6 +54,6 @@ The full [proposal for the Workshop at C&T in PDF form](/images/2017_ws3dp_ct_pr
 
 ----
 
-__<a  href="https://script.google.com/macros/s/AKfycbwskPZNaDQn6Ha_LGRHu3iYnU4oD_ru6YVVB_rw9NDLjrCQXec/exec" target="_blank" style=" display:block; width: 100%; text-align: center; font-size: 3rem;">Upload your contribution here</a>__
+__<span style=" display:block; width: 100%; text-align: center; font-size: 3rem;"> Submission has ended</span>__
 
 ----
