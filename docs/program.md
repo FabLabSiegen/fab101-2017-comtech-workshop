@@ -11,6 +11,7 @@ Vom Makerspace allgemein zum speziellen Case
 7. Kirchhübel
 8. Brandsma
 
+
 10min talk time + 10min discussion
 3 questions for each paper
 lunch break
