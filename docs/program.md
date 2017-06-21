@@ -1,5 +1,22 @@
 The actual program will be based on participant submission. The draft program below is based on the thematic suggestions from the call for contributions and will be updated after all submissions have been reviewed (in June 2017):
 
+Vom Makerspace allgemein zum speziellen Case
+1. Gaved
+2. Meissner
+3. Wenzelmann Mobile Lab
+4. Lunch
+5. Rüller
+6. 3D Didactics (2 papers)
+7. Panel Makernet at Makerspace
+7. Kirchhübel
+8. Brandsma
+
+10min talk time + 10min discussion
+3 questions for each paper
+lunch break
+time for group discussion(s) (block-based) 
+
+
 ###Morning slots
 
 * 3D printing: (New?) socio-technical systems and their appropriation
