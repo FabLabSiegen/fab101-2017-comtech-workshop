@@ -1,4 +1,4 @@
-We suggest the following program based on a topic driven order of the [accepted submissions](https://drive.google.com/open?id=0B6IVn-EKd-N0bE55aDVEZGVJd0E):
+Based on a topic-driven order of the [accepted submissions](https://drive.google.com/open?id=0B6IVn-EKd-N0bE55aDVEZGVJd0E) the following program has emerged:
 
 ##**Introduction Session | 10.00 am - 11.00 am**
 The workshop starts at 10.00 am with coffee and a short get-to-know session, where participants and organizers introduce themselves.
