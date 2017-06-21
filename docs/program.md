@@ -1,13 +1,17 @@
 The actual program will be based on participant submission. The draft program below is based on the thematic suggestions from the call for contributions and will be updated after all submissions have been reviewed (in June 2017):
 
 Vom Makerspace allgemein zum speziellen Case
+erster slot:
 1. Gaved
 2. Meissner
 3. Wenzelmann Mobile Lab
+pause
+zweiter slot
 4. Lunch
 5. Rüller
 6. 3D Didactics (2 papers)
 7. Panel Makernet at Makerspace
+dritter slot:
 7. Kirchhübel
 8. Brandsma
 
