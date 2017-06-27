@@ -12,7 +12,7 @@ For each presentation of submissions we suggest 10 minutes of talk time and 5 mi
 
 * [A Portable Makerspace for the Common Good](https://drive.google.com/open?id=0B6IVn-EKd-N0aWFXeGJtZTg5MWs) (Meissner, J.L.)
 
-* Mobile Labs (Wenzelmann, V.): tbd
+* [Labmobile: Prototyping a mobile lab as a shared resource for connected communities](https://drive.google.com/open?id=0ByEOnFPBo2UwcXloRkowNVZRdWM) (Wenzelmann, V.; Stickel, O.)
 
 ###Extended break & Makerspace | 12.00 pm - 01.30 pm
 Lunch and enough time for engagement, discussion and maybe even Making at the [C&T Makerspace](http://comtech.community/makerspace/). There will be 3D printers, tools, VR-/AR and quick drop-in-workshops.
